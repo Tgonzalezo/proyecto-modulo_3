@@ -3,15 +3,11 @@
 SISTEMA DE GESTIÓN DE SUPERMERCADO
 =========================================================
 """
-# =====================================================
-# IMPORTACIONES
-# =====================================================
 
 import json
 import os
 
 from datetime import datetime
-
 from datos import productos, CATEGORIAS
 
 # =====================================================
